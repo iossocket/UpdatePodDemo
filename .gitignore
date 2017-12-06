@@ -1,0 +1,7 @@
+UpdatePodDemo.xcodeproj/xcuserdata/
+UpdatePodDemo.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+UpdatePodDemo.xcodeproj/project.xcworkspace/xcuserdata/
