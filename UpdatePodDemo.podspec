@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.summary      = "UpdatePodDemo."
 
   s.description  = <<-DESC
-                    this is UpdatePodDemo
+                    this is UpdatePodDemo, tag
                    DESC
 
   s.homepage     = "https://github.com/iossocket/UpdatePodDemo"
