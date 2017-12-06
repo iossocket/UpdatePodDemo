@@ -1,1 +1,1 @@
-pod repo push PrivatePods UpdatePodDemo.podspec --verbose --allow-warnings
+pod repo push PodsRepo UpdatePodDemo.podspec --verbose --allow-warnings
